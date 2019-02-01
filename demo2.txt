@@ -1,2 +1,4 @@
 Here is some text we are adding into demo.txt
 This also lets me practice my typing, which I need a lot of :)
+
+Now editing locally again and will push to GitHub.
